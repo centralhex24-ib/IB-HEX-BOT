@@ -3,10 +3,12 @@ services:
     name: IB-HEX-BOT
     env: node
     plan: free
-    buildCommand: npm install
+    buildCommand: yarn install --ignore-engines || npm install --legacy-peer-deps
     startCommand: node index.js
     envVars:
       - key: NODE_ENV
         value: production
       - key: PORT
         value: 3000
+      - key: NODE_VERSION
+        value: "20"
