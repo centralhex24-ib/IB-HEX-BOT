@@ -1,1 +1,30 @@
 
+{
+  "name": "ib-hex-bot",
+  "version": "1.0.0",
+  "description": "WhatsApp Bot IB_HEX_BOT par IbSacko",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "keywords": ["whatsapp", "bot", "baileys", "whatsapp-bot"],
+  "author": "ibrahima sory sacko",
+  "license": "MIT",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.5",
+    "@hapi/boom": "^10.0.1",
+    "express": "^4.18.2",
+    "qrcode": "^1.5.3",
+    "axios": "^1.6.0",
+    "form-data": "^4.0.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "ytdl-core": "^4.11.5",
+    "cheerio": "^1.0.0-rc.12",
+    "pino": "^8.15.0",
+    "qrcode-terminal": "^0.12.0"
+  },
+  "engines": {
+    "node": "20.x"
+  }
+}
