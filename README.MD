@@ -1,7 +1,7 @@
 # 🤖 IB-HEX-BOT - WhatsApp Bot Complet
 
 <div align="center">
-  <img src="https://i.ibb.co/S4Bq8FGC/file-0000000019fc722f9717382cd6600e56.png" alt="IB-HEX-BOT Logo" width="200">
+  <img src="https://i.ibb.co/S4Bq8FGC/file-0000000019fc722f9717382cd6600e56.png" alt="IB-HEX-BOT Logo" width="700">
   <h3>Bot WhatsApp Puissant avec 150+ Commandes</h3>
   <p>Développé par <strong>IbSacko</strong> (ibrahima sory sacko)</p>
 </div>
