@@ -5,10 +5,9 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "dev": "node index.js",
-    "test": "echo \"No tests specified\" && exit 0"
+    "dev": "node index.js"
   },
-  "keywords": ["whatsapp", "bot", "baileys"],
+  "keywords": ["whatsapp", "bot", "baileys", "whatsapp-bot"],
   "author": "ibrahima sory sacko",
   "license": "MIT",
   "dependencies": {
@@ -22,10 +21,9 @@
     "ytdl-core": "^4.11.5",
     "cheerio": "^1.0.0-rc.12",
     "pino": "^8.15.0",
-    "qrcode-terminal": "^0.12.0",
-    "node-fetch": "^2.7.0"
+    "qrcode-terminal": "^0.12.0"
   },
   "engines": {
-    "node": "18.x"
+    "node": "20.x"
   }
 }
